@@ -73,4 +73,10 @@ Ensure Python 3.x and pip are installed on your system.
 4. Start interacting with ChefMate by asking questions to receive the answers and advice you need.
 
 ## Project Archive
-The complete project archive, including all documents and source code, can be accessed [here](https://drive.google.com/drive/folders/1r-FrOgO_aauR28h2X80xMKZyKa_5UIYA?usp=sharing).
+The complete project archive, including all documents and source code, can be accessed [here](https://drive.google.com/drive/folders/1DydkEz-QTQzLAoQrnA887MO44AtmaELC?usp=drive_link).
+For a more detailed understanding, you can visit our YouTube page [here](https://www.youtube.com/watch?v=uAZ6jupCZTo).
+
+
+
+
+
